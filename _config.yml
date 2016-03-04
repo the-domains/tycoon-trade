@@ -1,0 +1,28 @@
+name: Tycoon Trade
+favicon: null
+layout_spectrum: 0.5461696772836149
+typography_spectrum: 0.9587717680260539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.770220636157319
+  lightness: 0.4589246253017336
+  saturation: 0.12094893516041338
+  rhythmicContrast: 0.08582456293515861
+purpose: []
